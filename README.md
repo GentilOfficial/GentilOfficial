@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **GentilOfficial/GentilOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img alt="FG logo" src="https://www.fgentili.it/android-chrome-512x512.png" width="100" />
+</p>
+<h1 align="center">
+  ## Hi there 👋
+</h1>
+
+You have a very important task you know!
+
+Go see [my portfolio](https://www.fgentili.it/) and if you like it contact me or send me an evaluation!
+
+
+
