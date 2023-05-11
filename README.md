@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img alt="FG logo" src="https://www.fgentili.it/android-chrome-512x512.png" width="100" />
 </p>
 <h1 align="center">
-  ## Hi there 👋
+  Hi there 👋
 </h1>
 
 You have a very important task you know!
