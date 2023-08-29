@@ -20,9 +20,5 @@ Here are some ideas to get you started:
   Hi there 👋
 </h1>
 
-You have a very important task you know!
-
-Go see [my portfolio](https://www.fgentili.it/) and if you like it contact me or send me an evaluation!
-
 
 
