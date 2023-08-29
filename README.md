@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   Hi there 👋
 </h1>
+
 Hi 👋, I'm Federico, a fullstack web developer based in Italy. My passion for technology and creativity has led me along a journey in the field of web applications, where I'm constantly searching🔎 new challenges and opportunities to learn and grow🌱. Welcome to my digital space, where I transform lines of code into engaging experiences and innovative functionalities.
 
 
