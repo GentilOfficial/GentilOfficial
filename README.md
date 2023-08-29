@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <h1 align="center">
   Hi there 👋
 </h1>
-<p>I’m currently working on my portfolio v2!</p>
+<p>⚒️ I’m currently working on my portfolio v2! 🎊</p>
 
 
