@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img alt="FG logo" src="https://avatars.githubusercontent.com/GentilOfficial" width="100" />
+  <img alt="FG logo" src="https://raw.githubusercontent.com/GentilOfficial/v2/main/public/logov2.png" width="100" />
 </p>
 <h1 align="center">
   Hi there 👋
