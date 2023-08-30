@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img alt="FG logo" src="https://raw.githubusercontent.com/GentilOfficial/v2/main/public/maskable-512.png" width="100" style="border-radius: 50%"/>
+  <img alt="FG logo" src="https://raw.githubusercontent.com/GentilOfficial/v2/main/public/maskable-512.png" width="100" style="border-radius: 150px"/>
 </p>
 <h1 align="center">
   Hi there 👋
