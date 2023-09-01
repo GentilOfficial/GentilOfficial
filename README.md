@@ -17,10 +17,22 @@ Here are some ideas to get you started:
   <img alt="FG logo" src="https://raw.githubusercontent.com/GentilOfficial/v2/main/public/logov2.png" width="150" style="border-radius:50%"/>
 </p>
 <h1 align="center">
-  Hi there 👋
+  Welcome Foreigner!
 </h1>
 
 Hi 👋, I'm Federico, a fullstack web developer based in Italy. My passion for technology and creativity has led me along a journey in the field of web applications, where I'm constantly searching🔎 new challenges and opportunities to learn and grow🌱. Welcome to my digital space, where I transform lines of code into engaging experiences and innovative functionalities.
+
+## 🛠️ Tech Stack
+
+-   **Frontend**: HTML, CSS, JavaScript
+-   **Backend**: Node.js, PHP
+-   **Database**: MySQL
+-   **Frameworks**: React
+-   **Tools**: Git, VS Code
+
+## 🌱 Currently Learning
+
+I believe in continuous learning. I am currently taking a degree course in Computer Science at the University of Ferrara.
 
 ## 📫 Let's Connect
 
