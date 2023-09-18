@@ -23,6 +23,6 @@ I believe in continuous learning. I am currently taking a degree course in Compu
 -   GitHub: [@GentilOfficial](https://github.com/GentilOfficial)
 -   Instagram: [@federico.gnt](https://www.instagram.com/federico.gnt)
 -   Telegram: [@gentil104](https://www.t.me/gentil104)
--   Portfolio: [www.fgentili.it](https://fgentili.it)
+-   Portfolio: [fgentili.it](https://fgentili.it)
 
 Feel free to reach out if you'd like to collaborate or just say hello!
