@@ -14,13 +14,10 @@ p.s. 🚨 I know that all my projects have a bad structure, however, I am novice
 -   **Frameworks**: React
 -   **Tools**: Git, VS Code
 
-## 🌱 Currently Learning
-
-I believe in continuous learning. I am currently taking a degree course in Computer Science at the University of Ferrara.
-
 ## 📫 Let's Connect
 
 -   GitHub: [@GentilOfficial](https://github.com/GentilOfficial)
+-   Linkedln: [Federico Gentili](https://www.linkedin.com/in/federico-gentili-009531308)
 -   Instagram: [@federico.gnt](https://www.instagram.com/federico.gnt)
 -   Telegram: [@gentil104](https://www.t.me/gentil104)
 -   Portfolio: [fgentili.it](https://fgentili.it)
