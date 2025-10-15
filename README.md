@@ -8,5 +8,5 @@ Hi 👋, I'm Federico, a fullstack web developer based in Italy. My passion for 
 
 -   Linkedln: [Federico Gentili](https://www.linkedin.com/in/federico-gentili-009531308)
 -   Instagram: [@federico.gnt](https://www.instagram.com/federico.gnt)
--   Telegram: [@gentil104](https://www.t.me/gentil104)
+-   Telegram: [@federicognt](https://www.t.me/federicognt)
 
